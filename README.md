@@ -65,10 +65,10 @@ CREATE TABLE student (
 &nbsp;   name VARCHAR(100) NOT NULL  
 
 );
+```
 
 
-
-▶ How to Run
+\## ▶ How to Run
 
 Clone the repository
 
@@ -78,7 +78,7 @@ Compile and run MainMenu.java
 
 
 
-📌 Future Enhancements
+\## 📌 Future Enhancements
 
 Layered package structure (dao, service, model)
 
