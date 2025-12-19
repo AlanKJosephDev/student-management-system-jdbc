@@ -65,7 +65,7 @@ CREATE TABLE student (
 &nbsp;   name VARCHAR(100) NOT NULL  
 
 );
-
+```
 
 
 \## ▶ How to Run
